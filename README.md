@@ -1,2 +1,3 @@
-# ThirdCompetitionKaggle
-ThirdCompetitionKaggle
+# Visual Question Answering Kaggle competition
+This project uses a CNN and an LSTM to answer written question on an input image.
+Kaggle competition: https://www.kaggle.com/competitions/ann-and-dl-vqa
